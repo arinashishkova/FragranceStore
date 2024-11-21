@@ -1,0 +1,13 @@
+org\example\interfaces\IProductManager.class
+org\example\PurchaseFileSaver.class
+org\example\model\Purchase.class
+org\example\model\Customer.class
+org\example\interfaces\IPurchaseManager.class
+org\example\model\Product.class
+org\example\Shop.class
+org\example\manageClasses\ProductManager.class
+org\example\Main.class
+org\example\manageClasses\CustomerManager.class
+org\example\InputValidator.class
+org\example\manageClasses\PurchaseManager.class
+org\example\interfaces\ICustomerManager.class
